@@ -1,33 +1,34 @@
 const review = [
     {
         id: 0,
-        clientName: 'Mustafash',
-        clientLocation: 'Egypt',
-        clientSource: 'Fiverr',
-        clientReview: 'It is always nice to work with him. The work is finished quickly and he does more than is asked of him. It is also clear that he has a lot of knowledge of the work he does. I look forward to our next collaboration.'
+        clientName: 'Chiara Rossi',
+        clientLocation: 'Italy',
+        clientSource: 'LinkedIn',
+        clientReview: 'Working with Mario was a pleasure. He consistently delivered high-quality work ahead of schedule and demonstrated a deep understanding of the project requirements. I highly recommend him.'
     },
     {
         id: 2,
-        clientName: 'Melissabrown255',
-        clientLocation: 'United States',
-        clientSource: 'Fiverr',
-        clientReview: 'He is very good with communication and experienced website developer, great experience to work with him. '
+        clientName: 'Alessandro Bianchi',
+        clientLocation: 'Italy',
+        clientSource: 'Upwork',
+        clientReview: 'Mario is a skilled developer with excellent communication skills. He was a valuable asset to our team and I would gladly work with him again.'
     },
     {
         id: 3,
-        clientName: 'Jake Corry',
-        clientLocation: 'Germany',
-        clientSource: 'Fiverr',
-        clientReview: "Osama is extremely knowledgeable and helpful. He knows in and out of web app development . His understanding of different technologies and frameworks in the space is also very impressive. I hope I get the chance to work with him again"
+        clientName: 'Francesca Verdi',
+        clientLocation: 'Italy',
+        clientSource: 'Referral',
+        clientReview: "Mario's technical expertise and problem-solving abilities are impressive. He quickly grasped the complexities of our project and provided innovative solutions. I look forward to collaborating with him in the future."
     },
     {
         id: 4,
-        clientName: 'Blaise Labriola',
-        clientLocation: 'France',
+        clientName: 'Lorenzo Russo',
+        clientLocation: 'Italy',
         clientSource: 'Fiverr',
-        clientReview: 'I have worked with Osama and he is very professional and excellent software  developer. I admire his speed of development and quality of work when given an assignment.'
+        clientReview: 'I was impressed by Mario\'s professionalism and dedication to delivering exceptional results. He is a talented developer with a strong work ethic.'
     },
 ]
+
 export default function handler(req, res) {
     res.status(200).json(review)
 }

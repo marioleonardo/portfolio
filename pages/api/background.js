@@ -3,24 +3,17 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
+                title: 'Politecnico Torino',
+                degree: 'BS, Computer Engineering',
+                detail: "Bachelor's Degree in Computer Engineering Politecnico di Torino",
+                year: '2020-2023'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
-            },
-            {
-                id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'Politecnico Torino',
+                degree: 'MS, Computer Engineering',
+                detail: "Master's Degree in Computer Engineering Politecnico di Torino",
+                year: '2023-2025'
             },
         ]
     },
@@ -28,30 +21,21 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'BitPOLITO',
+                role: 'Full-stack Developer',
+                url: 'no website',
+                desc: "Collaborated with cross-functional teams to design and develop web and mobile applications using React.js, Django, MongoDB, and Python. Demonstrated strong project management skills by establishing deadlines, monitoring development progress, and resolving issues promptly. Created effective software solutions for businesses and start-ups, ensuring client satisfaction and success.",
+                year: 'January 2021 - February 2023 (2 years 2 months)',
+                location: 'Italy, Torino'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
+                title: 'H-CUBE',
+                role: 'Lead Full Stack Developer',
                 url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
-            },
-            {
-                id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                desc: "Full Stack Developer at hCube: Managed full development lifecycle, including hybrid iOS/Android mobile application, admin dashboard, landing page and backend. Leveraged Flutter, AWS, and TypeScript to deliver innovative solutions for the wearable industry. Tested and managed low-level Bluetooth connections for embedded devices, including signal filtering and state management.",
+                year: 'June 2023 - Present (1 year 2 months)',
+                location: 'Italy, Torino'
             },
 
         ]

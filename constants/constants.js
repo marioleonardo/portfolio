@@ -1,16 +1,16 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Mario Attrovio';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Full Stack Developer`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
+  Residence: 'Italy',
+  City: 'Torino',
   Age: '23',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
+    title: 'Full Stack Developer',
     level: '75%',
   },
   {
@@ -22,46 +22,41 @@ export const SKILLS = [
   //   level: '75%',
   // },
   {
-    title: 'Backend Developer',
-    level: '54%',
+    title: 'Backend Developer (AWS)',
+    level: '74%',
   },
   {
-    title: 'Technical Blogger',
+    title: 'Flutter Developer',
     level: '83%',
   },
 ];
 
 export const TECH_STACK = [
-  'JavaScript',
   'ReactJS',
+  'Flutter',
   'NextJS',
   'TypeScript',
   'NodeJS',
-  'Redux',
-  'Zustand',
+  'Python',
+  'Django',
   'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
+  'Tailwind',
   'Material UI',
-  'Next UI',
-  'REST API',
   'MongoDB',
-  'MySQL',
+  'SQL',
   'Git',
   'GitHub',
-  'Jira',
+  'AWS',
   'Figma',
-  'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'mario.attrovio@gmail.com',
+  PHONE: '+39 366 217 6142',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/marioleonardo',
+  LINKEDIN: 'https://www.linkedin.com/in/mario-attrovio/',
+  TWITTER: 'https://twitter.com/mario_attrovio',
+  FACEBOOK: 'https://www.facebook.com/mario_attrovio',
 };

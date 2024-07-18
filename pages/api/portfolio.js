@@ -45,7 +45,7 @@ const portfolio = [
     {
         id: 3,
         projectName: "Landing ichiban",
-        url: "landing-ichibann.vercel.app",
+        url: "https://landing-ichibann.vercel.app",
         image: "projects/jmm.png",
         projectDetail: "API integration for login and data retrieval, and provides insightful analytics to enhance player performance tracking.",
         technologiesUsed: [

@@ -44,10 +44,10 @@ const portfolio = [
 
     {
         id: 3,
-        projectName: "bitPolito Website",
-        url: "https://youtu.be/PLUYzfLrQ-U",
+        projectName: "Landing ichiban",
+        url: "landing-ichibann.vercel.app",
         image: "projects/jmm.png",
-        projectDetail: "The HCube Dashboard is a React SPA that allows coaches to view real-time and processed training data from their players' devices. It utilizes MQTT IoT for real-time monitoring, API integration for login and data retrieval, and provides insightful analytics to enhance player performance tracking.",
+        projectDetail: "API integration for login and data retrieval, and provides insightful analytics to enhance player performance tracking.",
         technologiesUsed: [
             {
                 tech: "React"
